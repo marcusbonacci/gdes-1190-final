@@ -92,7 +92,7 @@ body {
 .banner {
     background-image: 
     linear-gradient(to bottom, rgba(0, 0, 0, .9), rgba(0, 0, 0, .7)),
-    url(../../assets/jpg/Camera.jpg);
+    url(../assets/jpg/Camera.jpg);
     background-size: cover;
     width: 100%;
     height: 700px;
